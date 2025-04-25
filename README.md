@@ -1,4 +1,4 @@
-# abm_shimmering
+# AGENT BASED MODEL - Shimmering
 Abejas que generan un movimiento coordinado para parecer un organismo más grande y ahuyentar a un depredador.
 
     
