@@ -2,6 +2,16 @@
 Abejas que generan un movimiento coordinado para parecer un organismo más grande y ahuyentar a un depredador.
 
 
+✅ Miedo en cadena: Si una abeja cercana entra en pánico, las otras también lo hacen.
+✅ Duración del comportamiento de huida: Las abejas se calman después de un tiempo.
+✅ Tiempo de reacción variable: No todas las abejas responden al peligro al mismo tiempo.
+✅ Animación dinámica: Se muestra el efecto de ondas de calor en tiempo real.
+
+
+Este modelo se asemeja al comportamiento natural de las abejas, ¡y la animación es muy visual! 🐝🔥
+
+
+
     import numpy as np
     import matplotlib.pyplot as plt
     import matplotlib.animation as animation
@@ -84,3 +94,9 @@ Abejas que generan un movimiento coordinado para parecer un organismo más grand
     
     ani = animation.FuncAnimation(fig, update, frames=20, interval=500)
     plt.show()
+
+
+
+Pruébalo y dime qué te parece. Si quieres mejoras, ¡me puedes escribir! 
+
+😃 freynep@udd.cl
